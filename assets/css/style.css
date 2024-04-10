@@ -1,0 +1,26 @@
+.lesson {
+  background-color: lemonchiffon;
+}
+
+.title {
+  color: darkblue;
+}
+
+img {
+  display: block;
+  border-radius: 25px 5px 25px 5px;
+  height: 200px;
+  width: 200px;
+}
+
+#email {
+  background-color: goldenrod;
+}
+
+#github {
+  background-color: lightsteelblue;
+}
+
+#portfolio {
+  background-color: darkorange;
+}
